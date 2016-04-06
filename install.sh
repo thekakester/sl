@@ -38,4 +38,5 @@ sl
 
 clear
 echo "If you just saw a train, then everything works."
-echo "If not, call mitch"
+echo "If you did not, try closing this terminal and re-opening it"
+echo "If that still didn't work, tell Mitch"
