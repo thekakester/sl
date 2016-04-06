@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Set where to install sl to
-DIR="${HOME}/Desktop/sl"
+DIR="${HOME}/slinstallation"
 echo "INSTALLING TO $DIR"
 
 #Create a temporary folder to unzip contents to
